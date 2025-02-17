@@ -1,0 +1,1 @@
+This project involves setting up a Git repository, making meaningful commits, and managing files related to an "About Me" website. It also includes deploying the site to GitHub Pages.
